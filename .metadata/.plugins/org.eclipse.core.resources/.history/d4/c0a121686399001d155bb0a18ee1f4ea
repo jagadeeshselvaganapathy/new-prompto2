@@ -1,0 +1,29 @@
+package com.stepdefinition;
+
+import com.base.BaseClass;
+
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class demo extends BaseClass{
+	
+
+	@When("user validate click showcaseone")
+	public void userValidateClickShowcaseone() {
+		
+		
+
+	
+	}
+	@Then("user logout seventeenth timeone")
+	public void userLogoutSeventeenthTimeone() {
+		
+		
+
+	
+	}
+
+
+
+
+}

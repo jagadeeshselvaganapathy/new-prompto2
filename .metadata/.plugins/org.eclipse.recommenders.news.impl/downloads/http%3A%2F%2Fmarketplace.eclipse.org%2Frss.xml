@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>https://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>DBeaver</title>
+    <link>https://marketplace.eclipse.org/content/dbeaver</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/Community_icon.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/sriderdp1/listings&quot; title=&quot;Serge Rider&quot;&gt;Serge Rider&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2012-11-04 11:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2023-01-22 13:27&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22DBeaver%20Corp%22&quot;&gt;DBeaver Corp&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;DBeaver is free universal SQL client/database tool for developers and database administrators. It can work with any database server which has JDBC or ODBC driver. It supports pluggable extensions.&lt;/p&gt;
+&lt;p&gt;Features: database schema browser, metadata editor (tables, columns, keys, indexes), SQL statements/scripts execution, SQL highlighting, autocompletion, formatting; result set/table view/edit/search; BLOB/CLOB view/edit support; GIS spatial data viewer, scrollable resultsets; transactions management; database metadata and full-text search; ER diagrams; server sessions management, transaction locks management, SSH/SOCKS support; automatic drivers download; stored procedures debugger; data import/export/migration; task management, database health monitoring dashboards; spatial data viewer; git integration; office formats support; etc.&lt;/p&gt;
+&lt;p&gt;Includes drivers for: MySQL, MariaDB, Oracle, DB2, PostgreSQL, SQL Server, Sybase, Apache Hive, Drill, Presto, Trino, Phoenix, Exasol, Informix, Teradata, Vertica, Netezza, Firebird, Derby, H2, H2GIS, WMI, Snowflake, Greenplum, AWS Redshift, AWS Athena, SAP HANA, MaxDB, NuoDB, MS Access, SQLite, CSV, DBF, Firebird, TimescaleDB, Yellowbrick, CockroachDB, OrientDB, MonetDB, Google BigQuery, Google Spanner, Apache Hive/Impala/Spark, Apache Ignite, MapD, Azure SQL, CrateDB, Elasticsearch, Ocient, Ingres, OmniSci, Yugabyte, IRIS, Data Virtuality, Denodo, DuckDB, Babelfish, OceanBase, Salesforce, EnterpriseDB, Apache Druid, Apache Kylin, Azure Databricks, OpenSearch.&lt;/p&gt;
+&lt;p&gt;Supports Color Theme and Darkest Dark themes.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Standalone version download available on &lt;a href=&quot;https://dbeaver.io/download/&quot; rel=&quot;nofollow&quot;&gt;https://dbeaver.io/download/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Source code: &lt;a href=&quot;https://github.com/dbeaver/dbeaver&quot; rel=&quot;nofollow&quot;&gt;https://github.com/dbeaver/dbeaver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;User guide: &lt;a href=&quot;https://github.com/dbeaver/dbeaver/wiki&quot; rel=&quot;nofollow&quot;&gt;https://github.com/dbeaver/dbeaver/wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 04 Nov 2012 16:30:36 +0000</pubDate>
+ <dc:creator>sriderdp1</dc:creator>
+ <guid isPermaLink="false">507775 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/dbeaver#comments</comments>
+  </item>
+  <item>
+    <title>Asciidoctor Editor</title>
+    <link>https://marketplace.eclipse.org/content/asciidoctor-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/asciidoctor-editor-logo_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-03-15 15:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2023-01-20 12:57&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Asciidoctor Editor&lt;/h2&gt;
+&lt;p&gt;This eclipse plugin is a text editor for asciidoc files.&lt;/p&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Fast html preview&lt;/li&gt;
+&lt;li&gt;Uses &lt;a href=&quot;https://github.com/de-jcup/asp&quot; rel=&quot;nofollow&quot;&gt;ASP&lt;/a&gt; for out-of-the-box usage (no installation of asciidoctor required) or can use installed asciidoctor with customizable CLI arguments&lt;/li&gt;
+&lt;li&gt;Can export to PDF&lt;/li&gt;
+&lt;li&gt;Code completion for pathes used in includes, images, diagrams etc.&lt;/li&gt;
+&lt;li&gt;Supports text based diagram generation&lt;br /&gt;
+	( &lt;a href=&quot;https://github.com/stathissideris/ditaa&quot; rel=&quot;nofollow&quot;&gt;ditaa&lt;/a&gt;, &lt;a href=&quot;https://plantuml.com/&quot; rel=&quot;nofollow&quot;&gt; plantuml&lt;/a&gt; and &lt;a href=&quot;https://www.graphviz.org/&quot; rel=&quot;nofollow&quot;&gt;graphviz&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;3 different preview modes:
+&lt;ul&gt;&lt;li&gt;Inline preview with editor
+&lt;ul&gt;&lt;li&gt;Vertical splitted&lt;/li&gt;
+&lt;li&gt;Horizontal splitted&lt;/li&gt;
+&lt;li&gt;Both variantes are immediately updated on text save&lt;/li&gt;
+&lt;li&gt;When cursor comes in line of anchor or headline it automatically scrolls internal preview to location - also opposite way, when selecting a headline in preview the editor part will be selected and shown (if not an included part...)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;External preview
+&lt;ul&gt;&lt;li&gt;Using external Browser&lt;/li&gt;
+&lt;li&gt;Update per autorefresh in browser
+&lt;ul&gt;&lt;li&gt;time configurable&lt;/li&gt;
+&lt;li&gt;can be turned off also&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Interesting when having multiple monitors and wanting to have full sized text document and preview&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Provides asciidocconfig.adoc files - see &lt;a href=&quot;https://github.com/de-jcup/eclipse-asciidoctor-editor/wiki/Asciidoctor-configfiles&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Outline and Quickoutline
+&lt;ul&gt;&lt;li&gt;Headlines&lt;/li&gt;
+&lt;li&gt;Includes (double click opens file)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Syntax highlighting in Text Editor
+&lt;ul&gt;&lt;li&gt;Colors can be customized.&lt;/li&gt;
+&lt;li&gt;Dark theme automatic color support.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Templates + Simple code completion for existing words&lt;/li&gt;
+&lt;li&gt;Tooltips&lt;/li&gt;
+&lt;li&gt;Hyperlinking (CTRL+Mouse) and opening in IDE:
+&lt;ul&gt;&lt;li&gt;included asciidoc files&lt;/li&gt;
+&lt;li&gt;plantuml diagrams&lt;/li&gt;
+&lt;li&gt;ditaa diagrams&lt;/li&gt;
+&lt;li&gt;images&lt;/li&gt;
+&lt;li&gt;cross references&lt;/li&gt;
+&lt;li&gt;external links&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Can search for references of asciidoc files in workspace&lt;/li&gt;
+&lt;li&gt;Convenient toolbar actions
+&lt;ul&gt;&lt;li&gt;Table wizard&lt;/li&gt;
+&lt;li&gt;Code block templates&lt;/li&gt;
+&lt;li&gt;Possibility to toggle TOC on/off in output view&lt;/li&gt;
+&lt;li&gt;Switch preview layout variant&lt;/li&gt;
+&lt;li&gt;Jump to top of preview (internal preview panel only)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Additional editors included for
+&lt;ul&gt;&lt;li&gt;.ditaa files&lt;/li&gt;
+&lt;li&gt;.plantuml files&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Can convert one file or multiple files in selected folder
+&lt;ul&gt;&lt;li&gt;Formats supported:
+&lt;ul&gt;&lt;li&gt;markdown (*.md)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;PlantUML editor (from Asciidoctor Editor) has many PlantUML examples (e.g. C4 diagram examples) which can be injected by toolbar action.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Links related to the plugin&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-asciidoctor-editor/issues&quot; rel=&quot;nofollow&quot;&gt;Issue Tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-asciidoctor-editor/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-asciidoctor-editor/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLaBYAz_I_8tFByQ7EWnemjZgx7q-quDyp&quot; rel=&quot;nofollow&quot;&gt;YouTube Video playlist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Additional links&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://asciidoctor.org/docs/asciidoc-syntax-quick-reference&quot; rel=&quot;nofollow&quot;&gt;Asciidoctor Quickreference&lt;/a&gt; for details about syntax&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/stathissideris/ditaa&quot; rel=&quot;nofollow&quot;&gt;ditaa&lt;/a&gt;on github&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plantuml.com/&quot; rel=&quot;nofollow&quot;&gt;plantuml&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.graphviz.org/&quot; rel=&quot;nofollow&quot;&gt;graphviz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Technical details&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;It uses internally ASP server or installed asciidoctor to provide a WYSWYG integration.&lt;/li&gt;
+&lt;li&gt;When using plantuml (or graphviz itself) you must ensure you have installed graphviz on your machine&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 15 Mar 2018 19:51:28 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">3976500 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/asciidoctor-editor#comments</comments>
+  </item>
+  <item>
+    <title>Google Cloud Tools for Eclipse</title>
+    <link>https://marketplace.eclipse.org/content/google-cloud-tools-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/GCP-Logo.png&quot; width=&quot;91&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/eharold/listings&quot; title=&quot;Elliotte Rusty Harold&quot;&gt;Elliotte Rusty Harold&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-03-02 15:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2023-01-20 09:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Google%20LLC%22&quot;&gt;Google LLC&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Cloud Tools for Eclipse is a Google-sponsored open source plugin that supports the Google Cloud Platform. Cloud Tools for Eclipse enables you to create, import, edit, build, run, debug, and deploy Java servlet applications for the App Engine standard and flexible environments without leaving Eclipse. Cloud Tools for Eclipse also enables you to manage cloud client libraries and create and run Google Cloud Dataflow pipelines.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cloud.google.com/eclipse/docs/release-notes&quot; rel=&quot;nofollow&quot;&gt;Release Notes&lt;/a&gt; | &lt;a href=&quot;https://cloud.google.com/eclipse/docs/&quot; rel=&quot;nofollow&quot;&gt;Documentation&lt;/a&gt; | &lt;a href=&quot;https://github.com/GoogleCloudPlatform/google-cloud-eclipse&quot; rel=&quot;nofollow&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 02 Mar 2017 20:40:51 +0000</pubDate>
+ <dc:creator>eharold</dc:creator>
+ <guid isPermaLink="false">3321165 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/google-cloud-tools-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Sirius</title>
+    <link>https://marketplace.eclipse.org/content/sirius</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/icone_Sirius.png&quot; width=&quot;84&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/omisingnameuel/listings&quot; title=&quot;Obeo Products&quot;&gt;Obeo Products&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2013-11-20 04:56&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2023-01-20 09:26&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Obeo%22&quot;&gt;Obeo&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Sirius is an Eclipse project (&lt;a href=&quot;https://www.eclipse.org/sirius&quot; rel=&quot;nofollow&quot;&gt;https://www.eclipse.org/sirius&lt;/a&gt;) that allows you to easily create your own graphical modeling tools. It leverages the Eclipse modeling technologies, including EMF for the model management and GMF for the graphical representation. Based on a viewpoint approach, Sirius makes it possible to equip teams who have to deal with complex architectures on specific domains. It is particularly adapted for users that have defined a DSL (Domain Specific Language) and need graphical representations to better elaborate and analyze a system and improve the communication with other team members, partners or customers.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 20 Nov 2013 09:56:47 +0000</pubDate>
+ <dc:creator>omisingnameuel</dc:creator>
+ <guid isPermaLink="false">1318261 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/sirius#comments</comments>
+  </item>
+  <item>
+    <title>IBM Liberty Developer Tools</title>
+    <link>https://marketplace.eclipse.org/content/ibm-liberty-developer-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/wdt-was-emp-darkblue-500.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/canderson/listings&quot; title=&quot;Carl Anderson&quot;&gt;Carl Anderson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2014-07-02 08:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2023-01-20 06:28&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;An Eclipse IDE plugin for building and deploying Java EE, OSGi and Web 2.0 applications to WebSphere Liberty. For more information about installing and downloading the tools, including archived versions of the tools for older versions of Eclipse, see &lt;a href=&quot;https://www.ibm.com/support/pages/node/6589483&quot; rel=&quot;nofollow&quot;&gt;WebSphere Application Server Developer Tools Releases&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Release 22.2 has some known issues and workarounds. For more information, see &lt;a href=&quot;https://www.ibm.com/support/pages/node/6841611&quot; rel=&quot;nofollow&quot;&gt;Known problems and limitations in IBM Liberty Developer Tools v22.2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Alternatively, if you work with Jakarta EE 9.x APIs, MicroProfile APIs, or Open Liberty, try the early release of &lt;a href=&quot;https://marketplace.eclipse.org/content/liberty-tools&quot; rel=&quot;nofollow&quot;&gt;Liberty Tools&lt;/a&gt;, our next-generation open source development tools. You can also help shape the future of these tools by providing feedback or contributing on &lt;a href=&quot;https://github.com/OpenLiberty/liberty-tools-eclipse&quot; rel=&quot;nofollow&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 02 Jul 2014 12:24:46 +0000</pubDate>
+ <dc:creator>canderson</dc:creator>
+ <guid isPermaLink="false">1778478 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/ibm-liberty-developer-tools#comments</comments>
+  </item>
+  <item>
+    <title>Payara Tools</title>
+    <link>https://marketplace.eclipse.org/content/payara-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/logo.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jortlepp/listings&quot; title=&quot;Jadon Ortlepp&quot;&gt;Jadon Ortlepp&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-04-05 08:55&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2023-01-19 11:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Payara%20Services%20Ltd%22&quot;&gt;Payara Services Ltd&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Using the Payara Eclipse Tools, you can integrate Payara Server and Payara Micro within the Eclipse IDE and perform the following tasks:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Starting and stopping the Payara Server from within the IDE.&lt;/li&gt;
+&lt;li&gt;Define the Java runtime used by the runtime.&lt;/li&gt;
+&lt;li&gt;Deploy the application and start it from within the IDE.&lt;/li&gt;
+&lt;li&gt;Debug the application running on Payara Server.&lt;/li&gt;
+&lt;li&gt;Launch the Admin Console and Server logs from within the IDE.&lt;/li&gt;
+&lt;li&gt;Open the Server Home and Domain directory in the explorer.&lt;/li&gt;
+&lt;li&gt;Create a new Payara Micro Maven project.&lt;/li&gt;
+&lt;li&gt;Run and debug the Maven and Gradle application on Payara Micro.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more details, please visit the Payara Eclipse Tools docs: &lt;a href=&quot;https://docs.payara.fish/community/docs/documentation/ecosystem/eclipse-plugin/README.html&quot; rel=&quot;nofollow&quot;&gt;https://docs.payara.fish/community/docs/documentation/ecosystem/eclipse-...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Issue Tracker: &lt;a href=&quot;https://github.com/payara/ecosystem-support/issues&quot; rel=&quot;nofollow&quot;&gt;https://github.com/payara/ecosystem-support/issues&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Install location: &lt;a href=&quot;https://raw.githubusercontent.com/payara/ecosystem-eclipse-plugin/release-artifacts/repository/latest&quot; rel=&quot;nofollow&quot;&gt;https://raw.githubusercontent.com/payara/ecosystem-eclipse-plugin/releas...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 05 Apr 2018 12:55:30 +0000</pubDate>
+ <dc:creator>jortlepp</dc:creator>
+ <guid isPermaLink="false">4014208 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/payara-tools#comments</comments>
+  </item>
+  <item>
+    <title>DS-5 Community Edition</title>
+    <link>https://marketplace.eclipse.org/content/ds-5-community-edition</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/rmoran/listings&quot; title=&quot;Rob Moran&quot;&gt;Rob Moran&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2011-12-07 11:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2023-01-19 11:07&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22ARM%22&quot;&gt;ARM&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;DS-5™ Community Edition: The Perfect Companion For The Android NDK ARM Development Studio 5 (DS-5™) Community Edition takes Android native development tools to the next level. Conveniently distributed as plug-in for Eclipse, DS-5 CE completes the serious app developer toolkit with a comprehensive C, C++ and Assembly graphical debugger that builds on the Android Debug Bridge (adb), a software performance profiler and system analyzer, and a complete set of resources to guide you through your development cycle. Free to use by small businesses and individuals.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 07 Dec 2011 16:00:35 +0000</pubDate>
+ <dc:creator>rmoran</dc:creator>
+ <guid isPermaLink="false">165576 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/ds-5-community-edition#comments</comments>
+  </item>
+  <item>
+    <title>Liberty Tools</title>
+    <link>https://marketplace.eclipse.org/content/liberty-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/OL_logomark_80_2.png&quot; width=&quot;107&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/awisniewski/listings&quot; title=&quot;Adam Wisniewski&quot;&gt;Adam Wisniewski&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-12-06 13:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2023-01-19 10:50&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Liberty Tools for Eclipse IDE offers features for developing cloud-native Java applications with &lt;a href=&quot;https://openliberty.io&quot; rel=&quot;nofollow&quot;&gt;Open Liberty&lt;/a&gt; and &lt;a href=&quot;https://www.ibm.com/products/websphere-liberty&quot; rel=&quot;nofollow&quot;&gt;WebSphere Liberty&lt;/a&gt;. Iterate fast with Liberty dev mode, code with assistance for MicroProfile and Jakarta EE APIs, and easily edit Liberty configuration files. For more information, see the &lt;a href=&quot;https://github.com/OpenLiberty/liberty-tools-eclipse#welcome-to-the-liberty-tools-for-eclipse-project&quot; rel=&quot;nofollow&quot;&gt;project documentation in GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Note: This is an early release.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 06 Dec 2022 18:05:32 +0000</pubDate>
+ <dc:creator>awisniewski</dc:creator>
+ <guid isPermaLink="false">5571241 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/liberty-tools#comments</comments>
+  </item>
+  <item>
+    <title>Groovy Development Tools</title>
+    <link>https://marketplace.eclipse.org/content/groovy-development-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/groovy-logo-medium.png&quot; width=&quot;110&quot; height=&quot;55&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/aclement/listings&quot; title=&quot;Andrew Clement&quot;&gt;Andrew Clement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2012-07-04 13:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2023-01-19 10:12&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Groovy Development Tools (GDT) provides Eclipse and Maven (m2e) support for the &lt;a href=&quot;http://groovy-lang.org&quot; rel=&quot;nofollow&quot;&gt;Apache Groovy&lt;/a&gt; programming language. GDT adds full-featured IDE support including editors, wizards, content assist, debugging, refactoring and searching.&lt;/p&gt;
+&lt;p&gt;GDT requires Eclipse Java Development Tools (JDT) as it builds upon Java/JVM support, including Java interoperability (bi-directional dependencies via joint compilation). &lt;strong&gt;If your Eclipse flavor does not include JDT, you must install it first.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GDT does not provide any direct support for &lt;a href=&quot;http://grails.org&quot; rel=&quot;nofollow&quot;&gt;Grails&lt;/a&gt;. If you want Grails tooling, please consider the Groovy-Grails Tools Suite or &lt;a href=&quot;https://github.com/spring-projects/grails-ide&quot; rel=&quot;nofollow&quot;&gt;spring-projects/grails-ide&lt;/a&gt; for your Grails projects.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 04 Jul 2012 17:05:41 +0000</pubDate>
+ <dc:creator>aclement</dc:creator>
+ <guid isPermaLink="false">321859 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/groovy-development-tools#comments</comments>
+  </item>
+  <item>
+    <title>DS-5 Professional</title>
+    <link>https://marketplace.eclipse.org/content/ds-5-professional</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/rmoran/listings&quot; title=&quot;Rob Moran&quot;&gt;Rob Moran&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2010-10-11 08:28&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2023-01-19 09:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22ARM%22&quot;&gt;ARM&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;ARM DS-5™ Professional is the reference software development tool suite for ARM Powered® platforms. It is the tool-chain of choice for software developers who want to fully realize the benefits of the ARM Architecture. Comprising features such as the best-in-class ARM Compiler, powerful OS-aware debugger, system-wide performance analyzer, and real-time system simulator, DS-5 is an integrated development environment that assists engineers in delivering optimized and robust software for ARM processors. ARM DS-5™ Professional reduces the learning curve, shortens the development and testing cycle, and helps you build reliable applications quickly. Key Features of &lt;a href=&quot;http://www.arm.com/ds5&quot; rel=&quot;nofollow&quot;&gt;DS-5 Professional&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Eclipse IDE - with source editor and project manager&lt;/li&gt;
+&lt;li&gt;Compiler - Best in class ARM Compiler&lt;/li&gt;
+&lt;li&gt;Debugger - Fully featured graphical OS-aware, application and bare metal debugger&lt;/li&gt;
+&lt;li&gt;Streamline™ - System-wide performance analysis&lt;/li&gt;
+&lt;li&gt;Device Support - Supports a wide range of common ARM-based devices, &lt;a href=&quot;http://www.arm.com/products/tools/software-tools/ds-5/supported-platforms.php&quot; rel=&quot;nofollow&quot;&gt;listed here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Simulator - Fast simulation model of a Cortex-A8 SoC and dual core Cortex-A9&lt;/li&gt;
+&lt;li&gt;Remote System Explorer - SSH-based target file system browser&lt;/li&gt;
+&lt;li&gt;Online user guide, knowledgebase articles and discussion forum&lt;/li&gt;
+&lt;li&gt;Compatible with Windows and Linux host platforms An evaluation version of DS-5 Professional is available for &lt;a href=&quot;https://silver.arm.com/browse/DS500&quot; rel=&quot;nofollow&quot;&gt;download&lt;/a&gt;. A community edition of DS-5 for native Android application development is also on the marketplace, and available for &lt;a href=&quot;http://www.arm.com/products/tools/software-tools/ds-5/community-edition/index.php&quot; rel=&quot;nofollow&quot;&gt;download&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 11 Oct 2010 12:28:56 +0000</pubDate>
+ <dc:creator>rmoran</dc:creator>
+ <guid isPermaLink="false">15132 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/ds-5-professional#comments</comments>
+  </item>
+  </channel>
+</rss>
